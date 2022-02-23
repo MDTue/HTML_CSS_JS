@@ -1,0 +1,49 @@
+body{
+    background-image: url("https://cdn.pixabay.com/photo/2014/02/27/16/10/tree-276014_960_720.jpg");
+    background-position: center;
+    image-set(100%);
+    font-family: "Arial"
+}
+
+h1{
+    font-family: "Helvetica Neue";
+    font-size: 26;
+    font-color: white;
+}
+
+p{
+    font-family: "Arial";
+        }
+
+div {
+    border-bottom-color: darkgray;
+    margin: 5px;
+    }
+
+.grid-container{
+
+}
+.Container1{
+    width : 1500px;
+    border: 15px solid green;
+    padding: 10px;
+    margin: 20px;
+    background-color: lightyellow;
+    border-style: double;
+}
+
+table {
+    width: 80%;
+}
+td{
+    
+    text-align: left;
+   }
+
+img {
+    border-radius : 5px;
+    border: 1px solid #ddd;
+    padding: 5px;
+    width: 150px;
+
+}
